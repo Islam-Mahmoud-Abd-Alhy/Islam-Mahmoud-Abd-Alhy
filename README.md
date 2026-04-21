@@ -35,6 +35,7 @@ A passionate developer bridging the gap between **clean code** and **robust secu
 ---
 
 ### 💻 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -68,7 +69,7 @@ A passionate developer bridging the gap between **clean code** and **robust secu
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Islam-Mahmoud-Abd-Alhy?theme=moebooru" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Islam-Mahmoud-Abd-Alhy&color=39FF14&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
   <br><br>
   <img src="https://img.shields.io/badge/System-Secured-39FF14?style=flat-square&logo=linux&logoColor=black" />
 </p>
